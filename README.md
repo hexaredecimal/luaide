@@ -3,7 +3,7 @@ IDE for the lua gods
 
 
 # purpose 
-> I started this project because I saw a gap in lua support when it comes to the lua programming language. Many text editors only provide syntax highlighting and code completions but not the ability to run a lua script by just clicking the run button. I know, you could be thinking "but why not add that feature to vs code or your prefered editor?". The answer is simple, I don't know how to write addons to vs code or any text editor for that matter. on the other hand I'm a good Java programmer so 1 + 1 = 1 0. Interprise language + skill = product that solves a problem. You may be fine with lua being treated as an embeddable scriptting language only but for some for us lua is more than just a language to embed on our c or c++ programs, It has became the goto language for leisure programming. 
+> I started this project because I saw a gap in lua support when it comes to the lua programming language. Many text editors only provide syntax highlighting and code completions but not the ability to run a lua script by just clicking the run button. I know, you could be thinking "but why not add that feature to vs code or your prefered editor? or better yet use ZeroBrane Studio". The answer is simple, I don't know how to write addons to vs code or any text editor for that matter and I don't like ZeroBrane. It's cool and all but it's not for me. On the other hand I'm a good Java programmer, so 1 + 1 = 10. Interprise language + skill = product that solves a problem. You may be fine with lua being treated as an embeddable scriptting language only but for some for us lua is more than just a language to embed on our c or c++ programs, It has became the goto language for leisure programming. 
 
 
 # Features
